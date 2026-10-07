@@ -1,0 +1,5 @@
+{
+  "partner": "snaive_growth",
+  "w_gbm": 0.9,
+  "cold_strategy": "damped_holt"
+}

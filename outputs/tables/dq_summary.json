@@ -1,0 +1,84 @@
+{
+  "train_rows": 3000888,
+  "train_date_range": [
+    "2013-01-01",
+    "2017-08-15"
+  ],
+  "n_stores": 54,
+  "n_families": 33,
+  "n_series": 1782,
+  "expected_rows_if_complete": 3000888,
+  "missing_rows_within_present_days": 0,
+  "missing_calendar_days": [
+    "2013-12-25",
+    "2014-12-25",
+    "2015-12-25",
+    "2016-12-25"
+  ],
+  "duplicate_keys_train": 0,
+  "duplicate_keys_transactions": 0,
+  "duplicate_keys_test": 0,
+  "null_cells_train": 0,
+  "negative_sales_rows": 0,
+  "share_rows_fractional_units": 0.15399208500950384,
+  "zero_sales_row_share": 0.3129506999261552,
+  "n_weeks_history": 240,
+  "history_weeks": [
+    "2013-01-07",
+    "2017-08-07"
+  ],
+  "weeks_with_missing_days": [
+    "2013-12-23",
+    "2014-12-22",
+    "2015-12-21",
+    "2016-12-19"
+  ],
+  "partial_weeks_dropped": [
+    "first partial week (2013-01-01..06)",
+    "last partial week (2017-08-14..2017-08-15)"
+  ],
+  "store_closure_weeks_total": 54,
+  "stores_opened_after_start": 8,
+  "series_never_sold": 53,
+  "series_launched_after_week8": 786,
+  "series_delisted_trailing_zero_8w": 43,
+  "gap_spells": 1031,
+  "gap_series_weeks": 17342,
+  "gap_share_of_active": 0.04988809555316468,
+  "gap_series_affected": 554,
+  "gap_series_weeks_by_year": {
+    "2013": 188,
+    "2014": 7599,
+    "2015": 7284,
+    "2016": 2075,
+    "2017": 196
+  },
+  "gap_share_in_cv_windows": 0.019530938237540905,
+  "series_with_8plus_zero_week_spell": 554,
+  "anomalous_series_weeks": 2808,
+  "anomalous_share_of_active": 0.008077832563331012,
+  "promo_tracking_starts_week": "2014-03-31",
+  "promo_share_series_weeks_active": 0.47226048362412,
+  "store_days_with_sales_but_no_transactions": 118,
+  "oil_missing_values": 43,
+  "oil_rows": 1218,
+  "holiday_rows": 350,
+  "holidays_transferred_true": 12,
+  "holiday_types": {
+    "Holiday": 221,
+    "Event": 56,
+    "Additional": 51,
+    "Transfer": 12,
+    "Bridge": 5,
+    "Work Day": 5
+  },
+  "holiday_calendar_end": "2017-12-26",
+  "test_date_range": [
+    "2017-08-16",
+    "2017-08-31"
+  ],
+  "test_series": 1782,
+  "test_series_not_in_train": 0,
+  "test_days": 16,
+  "test_covers_weeks_of_horizon": "weeks 1-2 fully, week 3 partially (4 of 7 days); weeks 4-13 unknown"
+}

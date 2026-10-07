@@ -1,0 +1,66 @@
+scenario,week,base_units,scenario_units
+S0 No promotions (baseline decomposition),2017-08-14,5.78091e+06,5.355813e+06
+S0 No promotions (baseline decomposition),2017-08-21,5.6036895e+06,5.226907e+06
+S0 No promotions (baseline decomposition),2017-08-28,6.049815e+06,5.432642e+06
+S0 No promotions (baseline decomposition),2017-09-04,6.1777845e+06,5.6365575e+06
+S0 No promotions (baseline decomposition),2017-09-11,5.900231e+06,5.465153e+06
+S0 No promotions (baseline decomposition),2017-09-18,5.8467785e+06,5.424334e+06
+S0 No promotions (baseline decomposition),2017-09-25,6.084139e+06,5.538856e+06
+S0 No promotions (baseline decomposition),2017-10-02,6.1091915e+06,5.534991e+06
+S0 No promotions (baseline decomposition),2017-10-09,5.954114e+06,5.495753e+06
+S0 No promotions (baseline decomposition),2017-10-16,5.816914e+06,5.4288055e+06
+S0 No promotions (baseline decomposition),2017-10-23,5.666068e+06,5.313673e+06
+S0 No promotions (baseline decomposition),2017-10-30,6.5034865e+06,5.846426e+06
+S0 No promotions (baseline decomposition),2017-11-06,6.138517e+06,5.548002e+06
+S1 Promo intensity +25%,2017-08-14,5.78091e+06,5.848265e+06
+S1 Promo intensity +25%,2017-08-21,5.6036895e+06,5.6852865e+06
+S1 Promo intensity +25%,2017-08-28,6.049815e+06,6.130695e+06
+S1 Promo intensity +25%,2017-09-04,6.1777845e+06,6.239265e+06
+S1 Promo intensity +25%,2017-09-11,5.900231e+06,5.962115e+06
+S1 Promo intensity +25%,2017-09-18,5.8467785e+06,5.9069525e+06
+S1 Promo intensity +25%,2017-09-25,6.084139e+06,6.1446885e+06
+S1 Promo intensity +25%,2017-10-02,6.1091915e+06,6.1691195e+06
+S1 Promo intensity +25%,2017-10-09,5.954114e+06,6.0156055e+06
+S1 Promo intensity +25%,2017-10-16,5.816914e+06,5.8746205e+06
+S1 Promo intensity +25%,2017-10-23,5.666068e+06,5.721243e+06
+S1 Promo intensity +25%,2017-10-30,6.5034865e+06,6.5547e+06
+S1 Promo intensity +25%,2017-11-06,6.138517e+06,6.203894e+06
+S2 Promo intensity +50%,2017-08-14,5.78091e+06,5.895235e+06
+S2 Promo intensity +50%,2017-08-21,5.6036895e+06,5.751195e+06
+S2 Promo intensity +50%,2017-08-28,6.049815e+06,6.203982e+06
+S2 Promo intensity +50%,2017-09-04,6.1777845e+06,6.308368e+06
+S2 Promo intensity +50%,2017-09-11,5.900231e+06,6.0331845e+06
+S2 Promo intensity +50%,2017-09-18,5.8467785e+06,5.977448e+06
+S2 Promo intensity +50%,2017-09-25,6.084139e+06,6.213258e+06
+S2 Promo intensity +50%,2017-10-02,6.1091915e+06,6.237938e+06
+S2 Promo intensity +50%,2017-10-09,5.954114e+06,6.0849305e+06
+S2 Promo intensity +50%,2017-10-16,5.816914e+06,5.941524e+06
+S2 Promo intensity +50%,2017-10-23,5.666068e+06,5.785682e+06
+S2 Promo intensity +50%,2017-10-30,6.5034865e+06,6.620564e+06
+S2 Promo intensity +50%,2017-11-06,6.138517e+06,6.269657e+06
+S3 Promo intensity x2,2017-08-14,5.78091e+06,5.9843805e+06
+S3 Promo intensity x2,2017-08-21,5.6036895e+06,5.8213455e+06
+S3 Promo intensity x2,2017-08-28,6.049815e+06,6.2944735e+06
+S3 Promo intensity x2,2017-09-04,6.1777845e+06,6.429096e+06
+S3 Promo intensity x2,2017-09-11,5.900231e+06,6.1429365e+06
+S3 Promo intensity x2,2017-09-18,5.8467785e+06,6.086467e+06
+S3 Promo intensity x2,2017-09-25,6.084139e+06,6.33031e+06
+S3 Promo intensity x2,2017-10-02,6.1091915e+06,6.350523e+06
+S3 Promo intensity x2,2017-10-09,5.954114e+06,6.1944115e+06
+S3 Promo intensity x2,2017-10-16,5.816914e+06,6.0439435e+06
+S3 Promo intensity x2,2017-10-23,5.666068e+06,5.884002e+06
+S3 Promo intensity x2,2017-10-30,6.5034865e+06,6.738435e+06
+S3 Promo intensity x2,2017-11-06,6.138517e+06,6.3845955e+06
+S4 Store traffic -10%,2017-08-14,5.78091e+06,5.7810595e+06
+S4 Store traffic -10%,2017-08-21,5.6036895e+06,5.603933e+06
+S4 Store traffic -10%,2017-08-28,6.049815e+06,6.0496975e+06
+S4 Store traffic -10%,2017-09-04,6.1777845e+06,6.178048e+06
+S4 Store traffic -10%,2017-09-11,5.900231e+06,5.900855e+06
+S4 Store traffic -10%,2017-09-18,5.8467785e+06,5.847574e+06
+S4 Store traffic -10%,2017-09-25,6.084139e+06,6.0849945e+06
+S4 Store traffic -10%,2017-10-02,6.1091915e+06,6.109427e+06
+S4 Store traffic -10%,2017-10-09,5.954114e+06,5.9551265e+06
+S4 Store traffic -10%,2017-10-16,5.816914e+06,5.8178505e+06
+S4 Store traffic -10%,2017-10-23,5.666068e+06,5.66708e+06
+S4 Store traffic -10%,2017-10-30,6.5034865e+06,6.504717e+06
+S4 Store traffic -10%,2017-11-06,6.138517e+06,6.139318e+06

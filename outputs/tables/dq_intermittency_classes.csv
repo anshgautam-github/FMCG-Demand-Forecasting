@@ -1,0 +1,6 @@
+class,n_series
+smooth,1433
+erratic,159
+lumpy,65
+sparse (<3 active weeks),64
+intermittent,61

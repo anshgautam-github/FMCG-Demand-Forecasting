@@ -1,0 +1,6 @@
+scenario,description,base_units,scenario_units,delta_units,delta_pct,share_series_up,share_series_down
+S0 No promotions (baseline decomposition),all promotions set to 0 in the 13 forecast weeks,7.763164e+07,7.124791e+07,-6.383725e+06,-8.223097,0.031425364758698095,0.6689113355780022
+S1 Promo intensity +25%,items-on-promotion x1.25 (capped at 1.5x series 52-week max),7.763164e+07,7.8456456e+07,824813.1,1.0624703,0.6526374859708193,0.02749719416386083
+S2 Promo intensity +50%,items-on-promotion x1.5 (capped at 1.5x series 52-week max),7.763164e+07,7.932297e+07,1.6913275e+06,2.1786575,0.6778900112233446,0.010662177328843996
+S3 Promo intensity x2,items-on-promotion x2.0 (capped at 1.5x series 52-week max),7.763164e+07,8.068492e+07,3.05328e+06,3.9330356,0.6835016835016835,0.008417508417508417
+S4 Store traffic -10%,transactions in the last 13 observed weeks lowered 10% (footfall shock),7.763164e+07,7.763968e+07,8040.5996,0.010357374,0.17957351290684623,0.26374859708193044
